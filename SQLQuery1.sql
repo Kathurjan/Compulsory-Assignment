@@ -1,0 +1,22 @@
+
+
+USE ECommerce
+GO
+CREATE TABLE PRODUCT (
+ProductId INT PRIMARY KEY,
+PName VARCHAR(255)NOT NULL,
+PDescription VARCHAR(500)NOT NULL,
+Price float NOT NULL,
+Stock int NOT NULL,
+);
+GO
+
+CREATE TABLE Customer (
+UserID INT PRIMARY KEY,
+FirstName VARCHAR(255),
+LastName VARCHAR(255),
+UserPassword VARCHAR(255),
+Email VARCHAR(255)
+);
+GO
+
