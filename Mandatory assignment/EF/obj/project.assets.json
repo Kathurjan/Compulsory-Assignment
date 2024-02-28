@@ -2527,19 +2527,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aweso\\.nuget\\packages\\": {}
+    "C:\\Users\\marcu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aweso\\OneDrive\\Skrivebord\\Projects\\Bachelor\\Databases for developers\\week 9\\Mandatory assignment\\EF\\EF\\EF-Compulsory-Assignment.csproj",
+      "projectUniqueName": "D:\\Crepos\\Compulsory-Assignment\\Mandatory assignment\\SQL-Scripts\\Compulsory-Assignment\\EF\\EF-Compulsory-Assignment.csproj",
       "projectName": "EF-Compulsory-Assignment",
-      "projectPath": "C:\\Users\\aweso\\OneDrive\\Skrivebord\\Projects\\Bachelor\\Databases for developers\\week 9\\Mandatory assignment\\EF\\EF\\EF-Compulsory-Assignment.csproj",
-      "packagesPath": "C:\\Users\\aweso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aweso\\OneDrive\\Skrivebord\\Projects\\Bachelor\\Databases for developers\\week 9\\Mandatory assignment\\EF\\EF\\obj\\",
+      "projectPath": "D:\\Crepos\\Compulsory-Assignment\\Mandatory assignment\\SQL-Scripts\\Compulsory-Assignment\\EF\\EF-Compulsory-Assignment.csproj",
+      "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+      "outputPath": "D:\\Crepos\\Compulsory-Assignment\\Mandatory assignment\\SQL-Scripts\\Compulsory-Assignment\\EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aweso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
