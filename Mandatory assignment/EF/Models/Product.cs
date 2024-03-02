@@ -1,4 +1,6 @@
-﻿namespace EF_Compulsory_Assignment.Model;
+﻿using EF_Compulsory_Assignment.Models;
+
+namespace EF_Compulsory_Assignment.Model;
 public class Product
 {   
     public int ProductId { get; set; }
@@ -8,5 +10,7 @@ public class Product
     public int CategoryId_FK { get; set; }
 
     public Category Category { get; set; }
+
+    public List<ProductRating> Ratings { get; set; }
 }
 
