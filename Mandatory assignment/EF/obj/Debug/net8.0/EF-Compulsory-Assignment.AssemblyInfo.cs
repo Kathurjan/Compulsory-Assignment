@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF-Compulsory-Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c59551f2b3b5c42beaf28c4f8df122672824028")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF-Compulsory-Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF-Compulsory-Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
