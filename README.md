@@ -14,8 +14,8 @@ Depending on which version you are in, you would need to start by
 2. Then V2_UndoProductCategories.sql
 
 ## Setup insructions
-In case something is wrong with NuGet - dotnet restore
-Be sure you have installed .NET version 8.0.0
+1. In case something is wrong with NuGet - dotnet restore
+2. Be sure you have installed .NET version 8.0.0
 
 ## EF Roll-Back Guide
 Incase you want to roll-back to a previous version of the DB-Schema 
